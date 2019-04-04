@@ -1,0 +1,5 @@
+print("You went the wrong way mr")
+input("...")
+print("or did you?")
+input("...")
+print("fire fgnegrq vg nyy orpnhfr ur vf terrql Nf Shpx")
